@@ -87,16 +87,19 @@ Font:        Inter, system-ui fallback
 - Node.js 18+
 - npm 9+
 
-### Install & Run
+### Clone & Install
 
 ```bash
-# 1. Navigate into the portfolio directory
-cd portfolio
+# Clone the repository
+git clone https://github.com/blackice2090/claude-project.git
 
-# 2. Install dependencies
+# Navigate to the portfolio directory
+cd claude-project/portfolio
+
+# Install dependencies
 npm install
 
-# 3. Start the development server
+# Start the development server
 npm run dev
 ```
 
